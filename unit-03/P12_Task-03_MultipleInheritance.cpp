@@ -37,5 +37,6 @@ int main()
     obj3.print_identity_0();
     // Mammals::print_identity();
     // marine_animal::print_identity();
+    //ya fir alag se function banao derived class me aur use scope resolution karke dalo
     return 0;
 }
